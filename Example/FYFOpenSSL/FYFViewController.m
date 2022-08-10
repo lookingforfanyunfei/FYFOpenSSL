@@ -7,6 +7,13 @@
 //
 
 #import "FYFViewController.h"
+//#include <openssl/rsa.h>
+//#include <openssl/pem.h>
+//#include <openssl/err.h>
+
+#import <OpenSSL/rsa.h>
+#import <OpenSSL/pem.h>
+#import <OpenSSL/err.h>
 
 @interface FYFViewController ()
 

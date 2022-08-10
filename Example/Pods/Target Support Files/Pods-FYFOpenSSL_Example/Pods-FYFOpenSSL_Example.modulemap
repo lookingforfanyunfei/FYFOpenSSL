@@ -1,0 +1,6 @@
+framework module Pods_FYFOpenSSL_Example {
+  umbrella header "Pods-FYFOpenSSL_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

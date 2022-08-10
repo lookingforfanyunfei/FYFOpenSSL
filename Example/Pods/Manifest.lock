@@ -1,0 +1,16 @@
+PODS:
+  - FYFOpenSSL (0.1.0)
+
+DEPENDENCIES:
+  - FYFOpenSSL (from `../`)
+
+EXTERNAL SOURCES:
+  FYFOpenSSL:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FYFOpenSSL: 9f32545bbe4b522dd08e10c00bccb4e17b1bf103
+
+PODFILE CHECKSUM: 692e804464a3f595aecddfffff7d5cd891a5e5f5
+
+COCOAPODS: 1.11.3

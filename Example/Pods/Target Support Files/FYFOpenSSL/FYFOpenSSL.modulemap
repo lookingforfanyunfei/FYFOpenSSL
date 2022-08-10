@@ -1,0 +1,6 @@
+framework module FYFOpenSSL {
+  umbrella header "FYFOpenSSL-umbrella.h"
+
+  export *
+  module * { export * }
+}
